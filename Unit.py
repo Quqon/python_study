@@ -6,11 +6,11 @@ class Unit:
         self.defense = 1
 
     def move(self):
-        print("움직입니다.");
+        print("움직입니다.")
 
 class GroundUnit(Unit):
     def show_stats(self):
-        print(self.life);
+        print(self.life)
 
 ground_unit = GroundUnit()
 ground_unit.show_stats()
