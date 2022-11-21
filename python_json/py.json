@@ -1,0 +1,14 @@
+{
+    "id": 1,
+    "name": "py",
+    "test": false,
+    "study": [
+        "Java",
+        "Javascript",
+        "Python",
+        "C",
+        "C#",
+        "Ruby",
+        "kotlin"
+    ]
+}
